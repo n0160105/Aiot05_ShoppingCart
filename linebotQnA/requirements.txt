@@ -34,7 +34,7 @@ requests==2.22.0
 six==1.12.0
 sqlparse==0.3.0
 static3==0.7.0
-urllib3==1.25.8
+urllib3==1.26.5
 users==1.0.dev0
 virtualenv==16.7.9
 Werkzeug==0.16.1
